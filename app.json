@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Weight Loss Tracker",
+    "slug": "weightloss-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.openai.weightlosstracker"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b10e4c19-567e-4b71-b3a2-974fe6c2e2f6"
+      }
+    }
+  }
+}
